@@ -14,10 +14,12 @@ Una aplicación web interactiva de cuenta regresiva espacial desarrollada con te
 ##  Vista Previa del Proyecto
 
 > **Pantalla Principal (Espera de Lanzamiento)**
-> ![Pantalla Principal](https://via.placeholder.com/800x450/020024/00d4ff?text=Panel+de+Lanzamiento+-+60s)
+> ![Pantalla Principal](https://via.placeholder.com/800x450/020024/00d4ff?text=Panel+de+Lanzamiento+-+60s)<img width="959" height="416" alt="Captura de pantalla 2026-09-27 191435" src="https://github.com/user-attachments/assets/50d081b3-4210-4783-9a4f-08b3a820eff6" />
+
 
 > **Efecto de Despegue (Alerta)**
-> ![Despegue](https://via.placeholder.com/800x450/090979/22c55e?text=¡IGNICIÓN+Y+DESPEGUE!)
+> ![Despegue](https://via.placeholder.com/800x450/090979/22c55e?text=¡IGNICIÓN+Y+DESPEGUE!)<img width="959" height="408" alt="Captura de pantalla 2026-09-27 19" src="https://github.com/user-attachments/assets/146a1261-56c1-408e-ab95-fd6f90346a1c" />
+
 
 ---
 
